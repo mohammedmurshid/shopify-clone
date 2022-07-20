@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    
+}
+.body{
+    height: 2000px;
+    width: 100%;
+}
+
+.bg-image{
+    background-image: url(./images/img1.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1200px;
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    margin-left: 900px;
+    padding-top: 10px;
+    width:135px;
+    height: 70px
+}
+
+.hero-heading{
+    color: #fff;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 60px;
+    margin-left: 100px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+.hero-para{
+    font-family:ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-left: 100px;
+}
+.email-form{
+    margin-left: 700px;
+    text-align: left;
+    height: 50px;
+    width: 372px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px; 
+    padding-left: 10px ;
+}
+.submit-button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    height: 55px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.agree{
+    text-align:center;
+    padding-left: 100px;
+    padding-top: 0px;
+    color: white;   
+    font-size: 12px;
+    font-family : Helvetica, Arial, sans-serif;
+}
+
+.hero-image{
+    padding: 20px 550px ;
+}
+
+.table{
+    margin: 0 100px 0 100px;
+}
+
+.table-01{
+    width: 60%;
+    margin-left: 350px;
+    padding-top: 100px;
+    text-align: left;
+}
+.icons-table{
+    height: 45px;
+    width: 45px;
+    margin-left:0px;
+    text-align: left;
+    padding-bottom: 15px;
+}
+.table-2ndrow{
+    font-weight: bold;
+    line-height: 24px;
+    font-size: 18px;
+    font-family: Helvetica, Arial, sans-serif;
+    padding-bottom: 15px;
+}
+.p-table{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    color:#6b7177;
+    line-height: 24px;
+}
+.break-line1{
+    margin-left: 350px;
+    margin-top: 120px;
+    width: 900px;
+}
+.brand-logo{
+    height: 45px;
+    width: 100px;
+    padding-left:20px;
+    padding-top: 50px;
+}
+
+.brands{
+    margin: 0 150px 0 150px;
+}
+
+.brands_img{
+    padding-left: 350px;
+}
+
+.break-line2{
+    margin-left: 350px;
+    width: 900px;
+    margin-top: 50px;
+}
+
+.feedback-section{
+    margin: 0 150px 0 150px
+}
+.feedback{
+    color: #42474c;
+    margin-top: 80px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 500px;
+    text-align: center;
+    width:650px;
+    font-weight: lighter;
+    line-height:36px;
+}
+.name{
+    color: #42474c;
+    font-weight: 700;
+    margin-left: 670px;
+    font-size:14px;
+    letter-spacing:0.6125px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.trial-button {
+    background-color: #008060; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 55px;
+    font-weight: bold;
+    border-radius: 05px;
+    margin-left: 870px;
+    margin-top:40px
+
+}
+.tnc{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:16px;
+    font-weight:400;
+    margin-left: 845px;
+    margin-top:150px;
+    padding-bottom: 20px;
+    color: #008060;
+    
+}
+
